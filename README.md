@@ -27,7 +27,7 @@ Achieved 80% hit ratio on warm start users and 75% hit ratio for cold start user
 ## Production Architecture
 <img width="1536" height="1024" alt="Recommendation_system" src="https://github.com/user-attachments/assets/0e631def-40f0-49f6-878c-aab13305291e" />
 
-Read more about production flow [here](user_recommendation_system/blob/main/system_production_flow.md).
+Read more about production flow [here](https://github.com/vasapranavi/user_recommendation_system/blob/main/system_production_flow.md).
  
 ## Requirements
 - Python 3.8+
