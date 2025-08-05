@@ -6,7 +6,7 @@ It uses user-item interaction data (likes) along with engineered features to gen
 The pipeline supports **warm-start** (known users) and **cold-start** (new users) scenarios, with a fallback to popularity-based recommendations.
 
 ## Result
-Achieved 80% hit ratio on warm start users and 75% hit ratio for cold start users
+Achieved 89.54% hit ratio on warm start users and 86.76% hit ratio for cold start users
 
 ## Key Features
 - **Feature Engineering**: 
